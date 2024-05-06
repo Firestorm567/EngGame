@@ -7,6 +7,136 @@
 		{
 			"Name": "ElectraPlayer",
 			"Enabled": true
+		},
+		{
+			"Name": "MagicLeapCamera",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Lumin",
+				"Win64",
+				"Mac"
+			]
+		},
+		{
+			"Name": "MagicLeapBLE",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Lumin",
+				"Win64",
+				"Mac"
+			]
+		},
+		{
+			"Name": "MagicLeapConnections",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Lumin",
+				"Win64",
+				"Mac"
+			]
+		},
+		{
+			"Name": "MagicLeapContacts",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Lumin",
+				"Win64",
+				"Mac"
+			]
+		},
+		{
+			"Name": "MagicLeapDispatch",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Lumin",
+				"Win64",
+				"Mac"
+			]
+		},
+		{
+			"Name": "MagicLeapLocation",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Lumin"
+			]
+		},
+		{
+			"Name": "MagicLeapMovement",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Lumin",
+				"Win64",
+				"Mac"
+			]
+		},
+		{
+			"Name": "MagicLeapMusicService",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Lumin",
+				"Win64",
+				"Mac"
+			]
+		},
+		{
+			"Name": "MagicLeapNetworking",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Lumin",
+				"Win64",
+				"Mac"
+			]
+		},
+		{
+			"Name": "MagicLeapSharedFile",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Lumin",
+				"Win64",
+				"Mac"
+			]
+		},
+		{
+			"Name": "MagicLeapTablet",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Lumin",
+				"Win64",
+				"Mac"
+			]
+		},
+		{
+			"Name": "RigLogic",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintMaterialTextureNodes",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintStats",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintFileUtils",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimDistanceMatching",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkControlRig",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkCurveDebugUI",
+			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
